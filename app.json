@@ -1,0 +1,12 @@
+{
+  "name": "test-icescrum",
+  "displayName": "test-icescrum",
+  "expo": {
+    "name": "test-icescrum",
+    "slug": "test-icescrum",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
